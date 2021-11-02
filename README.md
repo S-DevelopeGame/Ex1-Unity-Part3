@@ -1,3 +1,5 @@
+<div lang="he" dir="rtl">
+
 # Meet-Friend
 
 במשחק השחקנים בדמות אנימציה שלקוחה מהמשחק ליטל פייטר.\
@@ -10,3 +12,4 @@
 לכל שחקן יש מצלמת איזור משלו.
 
 ![game-part3](https://user-images.githubusercontent.com/58264273/139940538-f7c7fc47-5725-4d29-a0cc-0d440f6df8a8.png)
+</div>
